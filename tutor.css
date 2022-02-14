@@ -1,0 +1,35 @@
+body {
+    font-size: 100%; /* start value*/
+    margin: auto;  /* centers the page */
+    max-width: 860px;  
+    background-image: url("https://64.media.tumblr.com/5762dbb6ab3371fbceaeb4f3d07b2ac6/590ef704d33705f2-df/s500x750/3409355d6450464ca8f55b3c286887bbcea510a8.jpg");
+  }
+ 
+  section, header, footer {
+    outline: 1px solid red;
+  }
+ 
+  header {
+    text-align: center;
+  }
+ 
+  .startpage h1 {
+    font-size: 500%; /* Big title on the start page*/
+  }
+ 
+  .tagline {
+    font-size: 120%;
+    padding: 0.5em; /* distance to the border*/
+    border-top: 3px double #00AF64;
+    border-bottom: 3px double #00AF64;
+    margin: 1em 0; /* distance downwards but not upwards*/
+  }
+ 
+   .menu h2 {
+    margin: 0 0 1em;
+    padding: 2em 0;
+    background-color: #e8eeed;  /* very light gray*/
+    text-align: center;
+  }
+ 
+  
